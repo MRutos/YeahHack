@@ -1,4 +1,4 @@
-"Hello, I'm Gittie!"
+"Bye, I'm Gittie!"
 
 "function add"
 
